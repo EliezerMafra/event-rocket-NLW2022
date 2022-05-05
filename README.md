@@ -18,3 +18,9 @@ Projeto Desenvolvido para o curso  NLW Return de 2022 da Rocketseat
 - Prisma
 - SQLite
 - Nodemailer
+
+
+### Arquitetura
+
+- Clean Architecture
+- S.O.L.I.D.
