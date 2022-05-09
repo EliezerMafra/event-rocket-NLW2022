@@ -1,5 +1,3 @@
-const { borderRadius } = require('tailwindcss/defaulttheme.js');
-
 module.exports = {
   content: ["./src/**/*.tsx"],
   theme: {
